@@ -35,3 +35,5 @@ longitude=loc.fetch("lng")
 p latitude
 
 p longitude
+
+
